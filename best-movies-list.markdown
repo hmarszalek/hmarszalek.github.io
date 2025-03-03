@@ -2,7 +2,7 @@
 title: Best Movies List
 ---
 
-# Best 100 movies of all time chronologically
+# Best 25 movies of all time chronologically
 
 <a href="index">Main page</a>
 
